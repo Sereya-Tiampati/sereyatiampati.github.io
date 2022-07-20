@@ -1,2 +1,2 @@
 # sereyatiampati.github.io
-Captain's Restaurants Website
+Restaurants Website
